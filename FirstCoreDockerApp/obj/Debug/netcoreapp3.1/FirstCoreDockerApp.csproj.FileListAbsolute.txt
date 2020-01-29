@@ -1,0 +1,11 @@
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.exe
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.deps.json
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.runtimeconfig.json
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.runtimeconfig.dev.json
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.dll
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\bin\Debug\netcoreapp3.1\FirstCoreDockerApp.pdb
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\obj\Debug\netcoreapp3.1\FirstCoreDockerApp.csprojAssemblyReference.cache
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\obj\Debug\netcoreapp3.1\FirstCoreDockerApp.AssemblyInfoInputs.cache
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\obj\Debug\netcoreapp3.1\FirstCoreDockerApp.AssemblyInfo.cs
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\obj\Debug\netcoreapp3.1\FirstCoreDockerApp.dll
+C:\Users\ericl\Documents\Visual Studio Code\CoreDockerProjects\FirstCoreDockerApp\obj\Debug\netcoreapp3.1\FirstCoreDockerApp.pdb
